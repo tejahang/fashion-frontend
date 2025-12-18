@@ -25,7 +25,7 @@ The following libraries are essential for this project and will be installed dur
 
 1.  **Navigate to the frontend folder**:
     ```bash
-    cd frontend
+    cd fashion-frontend
     ```
 2.  **Install all dependencies**:
     Run the following command to install the libraries listed above:
